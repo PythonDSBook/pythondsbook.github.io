@@ -10,3 +10,19 @@ layout: default
 
 東京大学出版会, 2024年
 
+# ノートブックファイル
+| 章 | Colab | Github |
+|:-- |:------|:------ |
+| 2 | TBD | TBD |
+| 3 | TBD | TBD |
+| 4 | TBD | TBD |
+| 5 | TBD | TBD |
+| 6 | TBD | TBD |
+| 7 | TBD | TBD |
+| 8 | TBD | TBD |
+| 9 | TBD | TBD |
+| 10 | TBD | TBD |
+| 11 | TBD | TBD |
+| 12 | TBD | TBD |
+
+# 正誤表
