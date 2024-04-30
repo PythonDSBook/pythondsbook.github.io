@@ -27,3 +27,4 @@ layout: default
 | 12 | TBD | TBD |
 
 # 正誤表
+本書の誤りを発見された方は[こちら](https://github.com/PythonDSBook/notebooks/issues)からご報告をお願いいたします。
