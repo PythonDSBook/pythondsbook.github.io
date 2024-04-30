@@ -12,7 +12,7 @@ layout: default
 
 # ノートブックファイル
 | 章 | Colab | Github |
-|:-- |:------|:------ |
+|---:|:---:|:---:|
 | 2 | TBD | TBD |
 | 3 | TBD | TBD |
 | 4 | TBD | TBD |
