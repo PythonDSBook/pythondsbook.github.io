@@ -14,7 +14,7 @@ layout: default
 
 | 章 | Colab | Github |
 | ---: | :---: | :---: |
-| 2 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
+| 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter02.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter02.ipynb) |
 | 3 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
 | 4 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
 | 5 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
