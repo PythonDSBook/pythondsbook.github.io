@@ -6,7 +6,7 @@ layout: default
 
 森 純一郎 『[Pythonデータ解析入門](https://www.utp.or.jp/book/b10049697.html)』 東京大学出版会，2024.
 
-# ノートブックファイル
+## ノートブックファイル
 
 | 章 | Colab | Github |
 | ---: | :---: | :---: |
@@ -22,5 +22,5 @@ layout: default
 | 11 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
 | 12 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
 
-# 正誤表
-本書の誤りを発見された方は[こちら](https://github.com/PythonDSBook/notebooks/issues)からご報告をお願いいたします。
+## 正誤表
+本書の内容の誤りを発見された方は[こちら](https://github.com/PythonDSBook/notebooks/issues)からご報告をお願いいたします。
