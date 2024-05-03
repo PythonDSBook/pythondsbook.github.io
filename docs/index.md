@@ -22,5 +22,11 @@ layout: default
 | 第11章 モデル選択 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
 | 第12章 ロジスティック回帰 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
 
+## データ
+
+|| ソース | 出典 |
+| コード 2.78, 3.9, 4.1 | [csvファイル](https://www.nstac.go.jp/sys/files/SSDSE-E-2022v2.csv)| [教育用標準データセット 基本素材](https://www.nstac.go.jp/use/literacy/ssdse/#SSDSE-E) |
+| コード 4.9 | [csvファイル](https://www.nstac.go.jp/sys/files/SSDSE-A-2022.csv)| [教育用標準データセット 市区町村](https://www.nstac.go.jp/use/literacy/ssdse/#SSDSE-A)|
+
 ## 正誤表
 本書の内容の誤りを発見された方はお手数ですが[こちら](https://github.com/PythonDSBook/notebooks/issues)からご報告をお願いいたします。
