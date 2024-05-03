@@ -28,8 +28,10 @@ layout: default
 | :--- | --- | --- |
 | コード 2.78, 3.9, 4.1 | [SSDSE-E-2022v2.csv](https://www.nstac.go.jp/sys/files/SSDSE-E-2022v2.csv)| [教育用標準データセット 基本素材](https://www.nstac.go.jp/use/literacy/ssdse/#SSDSE-E) |
 | コード 4.9 | [SSDSE-A-2022.csv](https://www.nstac.go.jp/sys/files/SSDSE-A-2022.csv)| [教育用標準データセット 市区町村](https://www.nstac.go.jp/use/literacy/ssdse/#SSDSE-A)|
-| コード 5.5 | [texts.csv](https://raw.githubusercontent.com/PythonDSBook/notebooks/main/data/texts.csv) | [青空文庫](https://www.aozora.gr.jp/)のデータを加工|
-| コード 5.5 | [words.csv](https://raw.githubusercontent.com/PythonDSBook/notebooks/main/data/words.csv) | [青空文庫](https://www.aozora.gr.jp/)のデータを加工|
+| コード 5.5 | [texts.csv](https://raw.githubusercontent.com/PythonDSBook/notebooks/main/data/texts.csv) | [青空文庫](https://www.aozora.gr.jp/)のデータから抽出・加工|
+| コード 5.5 | [words.csv](https://raw.githubusercontent.com/PythonDSBook/notebooks/main/data/words.csv) | [青空文庫](https://www.aozora.gr.jp/)のデータから抽出・加工|
+| コード 8.2 | [weather.csv](https://raw.githubusercontent.com/PythonDSBook/notebooks/main/data/weather.csv) | [政府統計ポータルサイト](https://www.e-stat.go.jp/regional-statistics/ssdsview)のデータから抽出・加工|
+| コード 9.2 | [SSDSE-D-2023.csv](https://www.nstac.go.jp/sys/files/SSDSE-D-2023.csv)| [教育用標準データセット 社会生活](https://www.nstac.go.jp/use/literacy/ssdse/#SSDSE-D)|
 
 
 ## 正誤表
