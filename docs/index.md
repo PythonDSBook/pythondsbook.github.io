@@ -8,19 +8,19 @@ layout: default
 
 ## ノートブックファイル
 
-| 章 | Colab | Github |
-| ---: | --- | :---: |
-| 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter02.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter02.ipynb) |
-| 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter03.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter03.ipynb) |
-| 4 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
-| 5 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
-| 6 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
-| 7 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
-| 8 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
-| 9 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
-| 10 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
-| 11 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
-| 12 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
+| | Colab | GitHub |
+| :--- | --- | --- |
+| 第2章 Pythonの基礎 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter02.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter02.ipynb) |
+| 第3章 Pythonのモジュール | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter03.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter03.ipynb) |
+| 第4章 データ分析の基礎 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
+| 第5章 テキストデータの分析 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
+| 第6章 ネットワークデータの分析 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
+| 第7章 機械学習の基礎 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
+| 第8章 クラスタリング | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
+| 第9章 主成分分析 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
+| 第10章 線形回帰 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
+| 第11章 モデル選択 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
+| 第12章 ロジスティック回帰 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
 
 ## 正誤表
 本書の内容の誤りを発見された方はお手数ですが[こちら](https://github.com/PythonDSBook/notebooks/issues)からご報告をお願いいたします。
