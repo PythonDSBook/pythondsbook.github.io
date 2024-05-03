@@ -32,6 +32,7 @@ layout: default
 | コード 5.5 | [words.csv](https://raw.githubusercontent.com/PythonDSBook/notebooks/main/data/words.csv) | [青空文庫](https://www.aozora.gr.jp/)のデータから抽出・加工|
 | コード 8.2 | [weather.csv](https://raw.githubusercontent.com/PythonDSBook/notebooks/main/data/weather.csv) | [政府統計ポータルサイト](https://www.e-stat.go.jp/regional-statistics/ssdsview)のデータから抽出・加工|
 | コード 9.2 | [SSDSE-D-2023.csv](https://www.nstac.go.jp/sys/files/SSDSE-D-2023.csv)| [教育用標準データセット 社会生活](https://www.nstac.go.jp/use/literacy/ssdse/#SSDSE-D)|
+| コード 12.2 | [adult.data](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data) | [UC Irvine Machine Learning Repository, Adult](https://archive.ics.uci.edu/dataset/2/adult) |
 
 
 ## 正誤表
