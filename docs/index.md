@@ -14,7 +14,7 @@ layout: default
 | 第3章 Pythonのモジュール | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter03.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter03.ipynb) |
 | 第4章 データ分析の基礎 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter04.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter04.ipynb) |
 | 第5章 テキストデータの分析 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter05.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter05.ipynb) |
-| 第6章 ネットワークデータの分析 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
+| 第6章 ネットワークデータの分析 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter06.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter06.ipynb) |
 | 第7章 機械学習の基礎 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
 | 第8章 クラスタリング | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
 | 第9章 主成分分析 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
@@ -24,7 +24,7 @@ layout: default
 
 ## データ
 
-|| ソース | 出典 |
+| 使用箇所 | ファイル | 出典 |
 | :--- | --- | --- |
 | コード 2.78, 3.9, 4.1 | [SSDSE-E-2022v2.csv](https://www.nstac.go.jp/sys/files/SSDSE-E-2022v2.csv)| [教育用標準データセット 基本素材](https://www.nstac.go.jp/use/literacy/ssdse/#SSDSE-E) |
 | コード 4.9 | [SSDSE-A-2022.csv](https://www.nstac.go.jp/sys/files/SSDSE-A-2022.csv)| [教育用標準データセット 市区町村](https://www.nstac.go.jp/use/literacy/ssdse/#SSDSE-A)|
