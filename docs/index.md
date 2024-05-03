@@ -9,9 +9,9 @@ layout: default
 ## ノートブックファイル
 
 | 章 | Colab | Github |
-| ---: | :---: | :---: |
+| ---: | --- | :---: |
 | 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter02.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter02.ipynb) |
-| 3 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
+| 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter03.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter03.ipynb) |
 | 4 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
 | 5 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
 | 6 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
@@ -23,4 +23,4 @@ layout: default
 | 12 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
 
 ## 正誤表
-本書の内容の誤りを発見された方は[こちら](https://github.com/PythonDSBook/notebooks/issues)からご報告をお願いいたします。
+本書の内容の誤りを発見された方はお手数ですが[こちら](https://github.com/PythonDSBook/notebooks/issues)からご報告をお願いいたします。
