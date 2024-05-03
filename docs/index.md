@@ -13,7 +13,7 @@ layout: default
 | 第2章 Pythonの基礎 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter02.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter02.ipynb) |
 | 第3章 Pythonのモジュール | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter03.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter03.ipynb) |
 | 第4章 データ分析の基礎 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter04.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter04.ipynb) |
-| 第5章 テキストデータの分析 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
+| 第5章 テキストデータの分析 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter05.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter05.ipynb) |
 | 第6章 ネットワークデータの分析 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
 | 第7章 機械学習の基礎 | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
 | 第8章 クラスタリング | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) | TBD |
