@@ -8,7 +8,7 @@ layout: default
 
 ## ノートブックファイル
 
-| | Colab | GitHub |
+| 章 | Colab | GitHub |
 | :--- | --- | --- |
 | 第2章 Pythonの基礎 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter02.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter02.ipynb) |
 | 第3章 Pythonのモジュール | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter03.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter03.ipynb) |
