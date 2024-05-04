@@ -6,6 +6,16 @@ layout: default
 
 森 純一郎 『[Pythonデータ解析入門](https://www.utp.or.jp/book/b10049697.html)』 東京大学出版会，2024.
 
+```
+@book{mori24,	
+      author = "森 純一郎",
+      yomi = "Junichiro Mori",
+      title = "Pythonデータ解析入門",
+      publisher = "東京大学出版会",
+      year = 2024,
+}
+```
+
 ## ノートブックファイル
 
 | 章 | Colab | GitHub |
