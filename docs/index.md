@@ -16,7 +16,7 @@ layout: default
 }
 ```
 
-## ノートブックファイル
+## ノートブック（ipynbファイル）
 
 | 章 | Colab | GitHub |
 | --- | --- | --- |
