@@ -16,6 +16,9 @@ layout: default
 }
 ```
 
+<!-- x Timeline Embed Code -->
+<a class="twitter-timeline" data-lang="en" data-theme="dark" href="https://twitter.com/pythondsbook?ref_src=twsrc%5Etfw">Tweets by pythondsbook</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## ノートブック（ipynbファイル）
 
 | 章 | Colab | GitHub |
