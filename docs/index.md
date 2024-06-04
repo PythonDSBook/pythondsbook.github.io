@@ -2,6 +2,8 @@
 layout: default
 ---
 
+### 書誌情報
+
 [![Book](https://hondana-image.s3.amazonaws.com/book/image/10049697/normal_1ef37020-0639-44dd-8934-b31d35a22b02.jpg)](https://www.utp.or.jp/book/b10049697.html)
 
 森 純一郎 『[Pythonデータ解析入門](https://www.utp.or.jp/book/b10049697.html)』 東京大学出版会，2024.
@@ -16,10 +18,7 @@ layout: default
 }
 ```
 
-<!-- x Timeline Embed Code -->
-<a class="twitter-timeline" data-lang="en" data-theme="dark" href="https://twitter.com/pythondsbook?ref_src=twsrc%5Etfw">Tweets by pythondsbook</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## ノートブック（ipynbファイル）
+### ノートブック（ipynbファイル）
 
 | 章 | Colab | GitHub |
 | --- | --- | --- |
@@ -35,7 +34,7 @@ layout: default
 | 第11章 モデル選択 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter11.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter11.ipynb) |
 | 第12章 ロジスティック回帰 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PythonDSBook/notebooks/blob/main/Chapter12.ipynb) | [ipynb](https://github.com/PythonDSBook/notebooks/blob/main/Chapter12.ipynb) |
 
-## データ
+### データ
 
 | 使用箇所 | ファイル | 出典 |
 | --- | --- | --- |
