@@ -47,5 +47,5 @@ layout: default
 | コード 12.2 | [adult.data](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data) | [UC Irvine Machine Learning Repository, Adult](https://archive.ics.uci.edu/dataset/2/adult) |
 
 
-## 正誤表
+### 正誤表
 本書の内容の誤りを発見された方はお手数ですが[こちら](https://github.com/PythonDSBook/notebooks/issues)からご報告をお願いいたします。
