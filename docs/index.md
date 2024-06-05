@@ -2,9 +2,14 @@
 layout: default
 ---
 
-### 書誌情報
-
 [![Book](https://hondana-image.s3.amazonaws.com/book/image/10049697/normal_1ef37020-0639-44dd-8934-b31d35a22b02.jpg)](https://www.utp.or.jp/book/b10049697.html)
+
+- [Amazon](https://amzn.to/3yVpQiI)
+- [honto](https://honto.jp/netstore/pd-book_33234965.html)
+- [紀伊國屋書店](https://www.kinokuniya.co.jp/f/dsg-01-9784130624664)
+
+  
+### 書誌情報
 
 森 純一郎 『[Pythonデータ解析入門](https://www.utp.or.jp/book/b10049697.html)』 東京大学出版会，2024.
 
