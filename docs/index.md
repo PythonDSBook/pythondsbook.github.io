@@ -7,11 +7,10 @@ layout: default
 - [Amazon](https://amzn.to/3yVpQiI)
 - [honto](https://honto.jp/netstore/pd-book_33234965.html)
 - [紀伊國屋書店](https://www.kinokuniya.co.jp/f/dsg-01-9784130624664)
-
+- [Books](https://www.books.or.jp/book-details/9784130624664)
   
 ### 書誌情報
-
-森 純一郎 『[Pythonデータ解析入門](https://www.utp.or.jp/book/b10049697.html)』 東京大学出版会，2024.
+[森純一郎](https://sites.google.com/site/junichiromori) 著. [Pythonデータ解析入門](https://www.utp.or.jp/book/b10049697.html), 東京大学出版会, 2024.
 
 ```
 @book{mori24,	
