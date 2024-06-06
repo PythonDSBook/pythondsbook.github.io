@@ -17,6 +17,7 @@ ISBN: 978-4-13-062466-4
 - [honto](https://honto.jp/netstore/pd-book_33234965.html)
 - [紀伊國屋書店](https://www.kinokuniya.co.jp/f/dsg-01-9784130624664)
 - [Books](https://www.books.or.jp/book-details/9784130624664)
+- [東京大学生協書籍部](https://bookzaikonavi.jp/tokyo/html/products/detail/7189827)
 
 ### 書誌情報
 
