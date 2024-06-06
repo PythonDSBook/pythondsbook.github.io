@@ -2,6 +2,11 @@
 layout: default
 ---
 
+* 目次
+{:toc}
+
+### 本書
+
 <a href="https://twitter.com/pythondsbook?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @pythondsbook</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![Book](https://hondana-image.s3.amazonaws.com/book/image/10049697/normal_1ef37020-0639-44dd-8934-b31d35a22b02.jpg)](https://www.utp.or.jp/book/b10049697.html)
@@ -12,9 +17,6 @@ ISBN: 978-4-13-062466-4
 - [honto](https://honto.jp/netstore/pd-book_33234965.html)
 - [紀伊國屋書店](https://www.kinokuniya.co.jp/f/dsg-01-9784130624664)
 - [Books](https://www.books.or.jp/book-details/9784130624664)
-
-* 目次
-{:toc} 
 
 ### 書誌情報
 
