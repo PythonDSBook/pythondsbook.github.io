@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{:toc}
 
 <a href="https://twitter.com/pythondsbook?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @pythondsbook</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -13,7 +12,10 @@ ISBN: 978-4-13-062466-4
 - [honto](https://honto.jp/netstore/pd-book_33234965.html)
 - [紀伊國屋書店](https://www.kinokuniya.co.jp/f/dsg-01-9784130624664)
 - [Books](https://www.books.or.jp/book-details/9784130624664)
-  
+
+* 目次
+{:toc} 
+
 ### 書誌情報
 
 [国立国会図書館書誌ID](https://ndlsearch.ndl.go.jp/books/R100000002-I033495419)
