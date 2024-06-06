@@ -63,3 +63,7 @@ layout: default
 ### 正誤表
 
 本書の内容の誤りを発見された方はお手数ですが[こちら](https://github.com/PythonDSBook/notebooks/issues)からご報告をお願いいたします。
+
+### FAQ
+
+[こちら]（https://github.com/PythonDSBook/notebooks/discussions）で本書に関する質問を受け付けています。
