@@ -66,4 +66,4 @@ layout: default
 
 ### FAQ
 
-[こちら]（https://github.com/PythonDSBook/notebooks/discussions）で本書に関する質問を受け付けています。
+[こちら](https://github.com/PythonDSBook/notebooks/discussions)で本書に関する質問を受け付けています。
