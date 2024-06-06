@@ -17,8 +17,6 @@ layout: default
 
 ### 書誌情報
 
-[国立国会図書館書誌ID](https://ndlsearch.ndl.go.jp/books/R100000002-I033495419)
-
 [森純一郎](https://sites.google.com/site/junichiromori) 著. [Pythonデータ解析入門](https://www.utp.or.jp/book/b10049697.html), 東京大学出版会, 2024.
 
 ```
@@ -30,6 +28,8 @@ layout: default
       year = 2024,
 }
 ```
+
+**国立国会図書館書誌ID**: [033495419](https://ndlsearch.ndl.go.jp/books/R100000002-I033495419)
 
 ### ノートブック（ipynbファイル）
 
