@@ -20,7 +20,7 @@ layout: default
 {:toc}
 
 ### 書誌情報
-**BibTex**:
+- **BibTex**:
 ```
 @book{mori24,	
       author = "森 純一郎",
@@ -31,7 +31,7 @@ layout: default
 }
 ```
 
-**国立国会図書館書誌ID**: [033495419](https://ndlsearch.ndl.go.jp/books/R100000002-I033495419)
+- **国立国会図書館書誌ID**: [033495419](https://ndlsearch.ndl.go.jp/books/R100000002-I033495419)
 
 ### ノートブック（ipynbファイル）
 
