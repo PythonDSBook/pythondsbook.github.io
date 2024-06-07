@@ -24,6 +24,7 @@ layout: default
 {:toc}
 
 ### 書誌情報
+- **国立国会図書館書誌ID**: [033495419](https://ndlsearch.ndl.go.jp/books/R100000002-I033495419)
 - **BibTex**:
 ```
 @book{mori24,	
@@ -35,8 +36,9 @@ layout: default
 }
 ```
 
+### まえがき
 
-- **国立国会図書館書誌ID**: [033495419](https://ndlsearch.ndl.go.jp/books/R100000002-I033495419)
+<iframe class="note-embed" src="https://note.com/embed/notes/n6ee1ab9de0d9" style="border: 0; display: block; max-width: 99%; width: 494px; padding: 0px; margin: 10px 0px; position: static; visibility: visible;" height="400"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script>
 
 ### ノートブック（ipynbファイル）
 
