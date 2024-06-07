@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div style="display: flex; justify-content: space-between;">
+<div>
 <a href="https://twitter.com/pythondsbook"><img src="https://www.utp.or.jp/images/common/twitter_icon.svg"/></a>　
 <a href="https://note.com/pythondsbook"><img src="https://www.utp.or.jp/images/common/note_icon.svg"/></a>　
 </div>
