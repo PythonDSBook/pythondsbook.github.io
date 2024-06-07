@@ -4,7 +4,7 @@ layout: default
 
 <a href="https://twitter.com/pythondsbook?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @pythondsbook</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[**note**](https://note.com/pythondsbook)
+<a href="https://note.com/pythondsbook"><img src="https://pbs.twimg.com/profile_images/1650311140818419712/gjNmcVIA_400x400.jpg" alt="note" width="50" height="50"></a>
 
 **数理・データサイエンス・AI教育（応用基礎レベル）教科書**
 
