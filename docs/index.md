@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
-    <a href="https://twitter.com/pythondsbook" style="margin-right: 10px;">
+    <a href="https://twitter.com/pythondsbook">
         <img src="https://www.utp.or.jp/images/common/twitter_icon.svg" alt="Twitter Icon"/>
     </a>
     <a href="https://note.com/pythondsbook">
