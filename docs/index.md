@@ -25,6 +25,10 @@ layout: default
 * TOC
 {:toc}
 
+### News
+- 06/07/24 [まえがき](https://note.com/embed/notes/n6ee1ab9de0d9)を公開しました。
+- 06/06/24 丸善 Knowledge Workder [今週のおすすめ書籍](https://kw.maruzen.co.jp/nfc/page.html)
+
 ### 書誌情報
 - **国立国会図書館書誌ID**: [033495419](https://ndlsearch.ndl.go.jp/books/R100000002-I033495419)
 - **BibTex**:
