@@ -1,9 +1,14 @@
 ---
 layout: default
 ---
-<div>
-<a href="https://twitter.com/pythondsbook"><img src="https://www.utp.or.jp/images/common/twitter_icon.svg"/></a>　
-<a href="https://note.com/pythondsbook"><img src="https://www.utp.or.jp/images/common/note_icon.svg"/></a>　
+
+<div style="display: flex; justify-content: flex-start; align-items: center;">
+    <a href="https://twitter.com/pythondsbook" style="margin-right: 10px;">
+        <img src="https://www.utp.or.jp/images/common/twitter_icon.svg" alt="Twitter Icon"/>
+    </a>
+    <a href="https://note.com/pythondsbook">
+        <img src="https://www.utp.or.jp/images/common/note_icon.svg" alt="Note Icon"/>
+    </a>
 </div>
 
 **数理・データサイエンス・AI教育（応用基礎レベル）教科書**
