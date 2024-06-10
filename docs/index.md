@@ -20,7 +20,7 @@ layout: default
 
 [**Amazon**](https://amzn.to/3yVpQiI)｜[**honto**](https://honto.jp/netstore/pd-book_33234965.html)｜[**紀伊國屋書店**](https://www.kinokuniya.co.jp/f/dsg-01-9784130624664)｜[**出版書誌データベース**](https://www.books.or.jp/book-details/9784130624664)｜[**東京大学生協書籍部**](https://bookzaikonavi.jp/tokyo/html/products/detail/7189827)｜[**丸善 Knowledge Worker**](https://kw.maruzen.co.jp/ims/itemDetail.html?itmCd=1038317697)｜[**大学出版部協会**](https://www.ajup-net.com/bd/isbn978-4-13-062466-4.html)
 
-教科書採用のための見本をご希望の方は[こちら](https://www.utp.or.jp/textbook/)でお申し込みください。
+教科書採用のための見本をご希望の方は[こちら](https://www.utp.or.jp/textbook/)からお申し込みください。
 
 ### 目次
 
@@ -84,3 +84,4 @@ layout: default
 ### FAQ
 
 [こちら](https://github.com/PythonDSBook/notebooks/discussions)で本書に関する質問を受け付けています。
+
