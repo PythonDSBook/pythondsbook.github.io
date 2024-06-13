@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<!--
 <div style="display: flex; justify-content: flex-start; align-items: center;">
     <a href="https://twitter.com/pythondsbook">
         <img src="https://www.utp.or.jp/images/common/twitter_icon.svg" alt="Twitter Icon"/>
@@ -10,7 +10,7 @@ layout: default
         <img src="https://www.utp.or.jp/images/common/note_icon.svg" alt="Note Icon"/>
     </a>
 </div>
-
+-->
 **数理・データサイエンス・AI教育（応用基礎レベル）教科書**
 
 [![Book](https://hondana-image.s3.amazonaws.com/book/image/10049697/normal_1ef37020-0639-44dd-8934-b31d35a22b02.jpg)](https://www.utp.or.jp/book/b10049697.html)
