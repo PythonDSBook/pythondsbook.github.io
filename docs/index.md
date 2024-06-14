@@ -28,6 +28,7 @@ layout: default
 {:toc}
 
 ### News
+- 06/11/24 [各章の概要](https://note.com/pythondsbook)を公開しました。
 - 06/07/24 [まえがき](https://note.com/embed/notes/n6ee1ab9de0d9)を公開しました。
 - 06/06/24 丸善 Knowledge Workder [今週のおすすめ書籍](https://kw.maruzen.co.jp/nfc/page.html)
 
