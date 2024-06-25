@@ -83,6 +83,11 @@ layout: default
 
 本書の内容の誤りを発見された方はお手数ですが[こちら](https://github.com/PythonDSBook/notebooks/issues)からご報告をお願いいたします。
 
+| **頁** | **誤** | **正** |
+| --- | --- | --- |
+| 初版 P.98 コード 5.14 | `tfidfatrix` | `tfidf_matrix` |
+| 初版 P.98 図5.5 | 実際の実行結果と異なる | 配布しているノートブック（ipynbファイル）の実行結果参照 |
+
 ### FAQ
 
 [こちら](https://github.com/PythonDSBook/notebooks/discussions)で本書に関する質問を受け付けています。
