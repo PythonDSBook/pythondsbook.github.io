@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!--
+
 <div style="display: flex; justify-content: flex-start; align-items: center;">
     <a href="https://twitter.com/pythondsbook">
         <img src="https://www.utp.or.jp/images/common/twitter_icon.svg" alt="Twitter Icon"/>
@@ -10,12 +10,12 @@ layout: default
         <img src="https://www.utp.or.jp/images/common/note_icon.svg" alt="Note Icon"/>
     </a>
 </div>
--->
+
 **数理・データサイエンス・AI教育（応用基礎レベル）教科書**
 
 [![Book](https://hondana-image.s3.amazonaws.com/book/image/10049697/normal_1ef37020-0639-44dd-8934-b31d35a22b02.jpg)](https://www.utp.or.jp/book/b10049697.html)
 
-- **[森 純一郎](https://sites.google.com/site/junichiromori) 著. [Pythonデータ解析入門](https://www.utp.or.jp/book/b10049697.html), 東京大学出版会, 2024.**
+- **森 純一郎 著. [Pythonデータ解析入門](https://www.utp.or.jp/book/b10049697.html), 東京大学出版会, 2024.**
 - **ISBN**: 978-4-13-062466-4
 
 [Amazon](https://amzn.to/3yVpQiI)｜[紀伊國屋書店](https://www.kinokuniya.co.jp/f/dsg-01-9784130624664)｜[丸善 Knowledge Worker](https://kw.maruzen.co.jp/ims/itemDetail.html?itmCd=1038317697)｜[e-hon](https://www.e-hon.ne.jp/bec/SA/Detail?refShinCode=0100000000000034611474)｜[出版書誌データベース](https://www.books.or.jp/book-details/9784130624664)｜[東京大学生協書籍部](https://bookzaikonavi.jp/tokyo/html/products/detail/7189827)｜[東京大学 OPAC](https://opac.dl.itc.u-tokyo.ac.jp/opac/opac_link/bibid/2003697518)｜[大学出版部協会](https://www.ajup-net.com/bd/isbn978-4-13-062466-4.html)
@@ -28,9 +28,10 @@ layout: default
 {:toc}
 
 ### News
-- 06/21/24 [電子書籍版](https://www.amazon.co.jp/dp/B0D7GKB2QQ/)
-- 06/11/24 [各章の概要](https://note.com/pythondsbook)を公開しました。
-- 06/07/24 [まえがき](https://note.com/pythondsbook/n/n6ee1ab9de0d9)を公開しました。
+- 06/25/24 正誤表を更新しました
+- 06/21/24 Amazon [電子書籍版](https://www.amazon.co.jp/dp/B0D7GKB2QQ/)
+- 06/11/24 [各章の概要](https://note.com/pythondsbook)を公開しました
+- 06/07/24 [まえがき](https://note.com/pythondsbook/n/n6ee1ab9de0d9)を公開しました
 - 06/06/24 丸善 Knowledge Workder [今週のおすすめ書籍](https://kw.maruzen.co.jp/nfc/page.html)
 
 ### 書誌情報
