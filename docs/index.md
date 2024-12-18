@@ -28,6 +28,8 @@ layout: default
 {:toc}
 
 ### News
+- 12/18/24 [Utokyo BiblioPlaza](https://www.u-tokyo.ac.jp/biblioplaza/ja/K_00124.html)
+- 12/15/24 正誤表を更新しました
 - 06/25/24 正誤表を更新しました
 - 06/21/24 Amazon [電子書籍版](https://www.amazon.co.jp/dp/B0D7GKB2QQ/)
 - 06/11/24 [各章の概要](https://note.com/pythondsbook)を公開しました
